@@ -1,0 +1,7 @@
+# Generated on 2026-11-05
+*.map linguist-generated
+*.yaml linguist-detectable=false
+src/**/*.js linguist-detectable
+dist/* linguist-vendored
+*.woff binary
+*.html linguist-vendored
